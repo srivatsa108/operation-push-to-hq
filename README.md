@@ -2,7 +2,7 @@
 
 An interactive, illustrated field manual that teaches complete beginners how to use Git and GitHub — without leaking a single secret. You play *Agent Commit*, delivering your code (intel) to GitHub (HQ).
 
-**[▶ View the live guide]([https://srivatsa108.github.io/operation-push-to-hq/])**
+**[▶ View the live guide][(https://srivatsa108.github.io/operation-push-to-hq/)]**
 <!-- Replace YOURUSERNAME and the repo name above once GitHub Pages is live (see LAUNCH-GUIDE.md) -->
 
 ## What it is
